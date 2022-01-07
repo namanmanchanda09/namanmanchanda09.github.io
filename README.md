@@ -1,3 +1,3 @@
 # Profile
 
-My Profile : https://namanmanchanda.netlify.com/
+My Profile : https://namanmanchanda09.github.io/
